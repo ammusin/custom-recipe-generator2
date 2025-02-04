@@ -1,0 +1,31 @@
+Recipe Name,Ingredients,Cuisine,Dietary Restrictions,Prep Time,Cook Time,Difficulty,Calories,Servings,Instructions
+Butter Chicken,"Chicken, Butter, Tomato, Cream, Spices",Indian,Non-Vegetarian,15 mins,40 mins,Medium,490,4,Marinate chicken → Cook in butter → Add sauce → Simmer
+Paneer Tikka,"Paneer, Yogurt, Spices, Bell Peppers",Indian,Vegetarian,20 mins,25 mins,Medium,320,3,Marinate paneer → Skewer & grill → Serve hot
+Masoor Dal,"Lentils, Tomato, Onion, Garlic, Spices",Indian,Vegan,10 mins,30 mins,Easy,280,4,Boil lentils → Prepare tadka → Mix & simmer
+Aloo Paratha,"Wheat Flour, Potato, Spices, Ghee",Indian,Vegetarian,15 mins,20 mins,Medium,350,2,Prepare dough → Make stuffing → Roll & cook
+Samosa,"Potato, Flour, Spices, Peas, Oil",Indian,Vegetarian,20 mins,30 mins,Hard,260,6,Make dough → Prepare filling → Shape & fry
+Chole Bhature,"Chickpeas, Flour, Spices, Oil",Indian,Vegan,12 hrs (soaking),35 mins,Medium,450,4,Soak chickpeas → Prepare curry → Fry Bhature
+Rajma Masala,"Kidney Beans, Tomato, Onion, Spices",Indian,Vegan,12 hrs (soaking),40 mins,Medium,380,4,Soak rajma → Cook with masala → Simmer
+Baingan Bharta,"Eggplant, Tomato, Onion, Spices",Indian,Vegan,15 mins,30 mins,Medium,150,3,Roast eggplant → Mash & sauté with spices
+Pulao,"Basmati Rice, Veggies, Spices, Ghee",Indian,Vegetarian,10 mins,25 mins,Easy,320,4,Sauté veggies → Add rice & spices → Cook
+Mutton Rogan Josh,"Mutton, Yogurt, Spices, Ghee",Indian,Non-Vegetarian,20 mins,1 hr,Hard,600,4,Marinate mutton → Cook with spices → Simmer
+Dal Tadka,"Lentils, Garlic, Tomato, Butter",Indian,Vegetarian,10 mins,30 mins,Easy,280,4,Boil dal → Prepare tadka → Mix & simmer
+Rava Upma,"Semolina, Vegetables, Mustard Seeds",Indian,Vegetarian,10 mins,15 mins,Easy,180,2,Roast semolina → Cook with veggies & water
+Mysore Pak,"Gram Flour, Ghee, Sugar",Indian,Vegetarian,5 mins,20 mins,Medium,450,6,Roast gram flour → Add ghee & sugar
+Poha,"Flattened Rice, Onion, Peanuts, Spices",Indian,Vegan,5 mins,10 mins,Easy,250,2,Sauté onion → Add poha & mix
+Kheer,"Rice, Milk, Sugar, Cardamom",Indian,Vegetarian,5 mins,30 mins,Medium,320,4,Boil rice in milk → Add sugar & cardamom
+Dhokla,"Gram Flour, Curd, Mustard Seeds",Indian,Vegetarian,10 mins,20 mins,Medium,250,4,Prepare batter → Steam & temper with spices
+Misal Pav,"Sprouts, Spices, Onions, Pav Bread",Indian,Vegan,10 mins,40 mins,Medium,300,3,Cook sprouts curry → Serve with Pav
+Pav Bhaji,"Potatoes, Tomato, Peas, Butter, Bread",Indian,Vegetarian,15 mins,30 mins,Medium,400,4,Cook & mash veggies → Serve with buttered Pav
+Gajar Halwa,"Carrots, Milk, Sugar, Ghee",Indian,Vegetarian,15 mins,45 mins,Medium,350,4,Grate carrots → Cook in milk → Add sugar & ghee
+Pani Puri,"Wheat Flour, Potato, Spices, Tamarind",Indian,Vegan,10 mins,20 mins,Medium,150,4,Prepare puris → Make filling & spicy water
+Tandoori Chicken,"Chicken, Yogurt, Spices",Indian,Non-Vegetarian,6 hrs (marination),40 mins,Medium,500,4,Marinate chicken → Grill or bake
+Biryani,"Basmati Rice, Chicken/Mutton, Spices",Indian,Non-Vegetarian,20 mins,1 hr,Hard,700,5,Layer rice & meat → Dum cook
+Rasmalai,"Milk, Sugar, Saffron, Paneer",Indian,Vegetarian,15 mins,30 mins,Medium,380,4,Prepare paneer balls → Soak in flavored milk
+Roti,"Wheat Flour, Water, Salt",Indian,Vegan,5 mins,10 mins,Easy,150,2,Knead dough → Roll & cook
+Bhindi Masala,"Okra, Tomato, Onion, Spices",Indian,Vegan,10 mins,20 mins,Easy,200,3,Sauté okra → Cook with spices
+Dal Makhani,"Black Lentils, Cream, Butter, Spices",Indian,Vegetarian,12 hrs (soaking),1 hr,Hard,500,4,Slow cook dal → Add cream & butter
+Idli,"Rice, Urad Dal, Salt",Indian,Vegan,12 hrs (fermentation),20 mins,Medium,180,4,Ferment batter → Steam
+Medu Vada,"Urad Dal, Spices, Curry Leaves",Indian,Vegan,12 hrs (soaking),30 mins,Medium,250,4,Grind dal → Shape & deep fry
+Chaas,"Yogurt, Water, Salt, Cumin",Indian,Vegetarian,5 mins,0 mins,Easy,50,2,Blend yogurt & water → Add spices
+Jalebi,"Flour, Sugar, Saffron, Ghee",Indian,Vegetarian,10 mins,20 mins,Medium,400,4,Prepare batter → Deep fry & soak in syrup
